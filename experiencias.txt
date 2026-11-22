@@ -1,1 +1,2 @@
 Este componente práctico me ayudó a saber como funcionan y se relacionan Git y el GitHub, además de practicar el trabajo grupal con mis compañeros.
+Durante el proyecto pude conocer como crear y modificar archivos en un repositorio de GitHub, realizar cambios y guardarlos mediante commits, me permitió comprender mejor el proceso de control de versiones y su aplicación en mis proyectos.
