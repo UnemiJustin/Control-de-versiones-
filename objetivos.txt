@@ -1,0 +1,5 @@
+                           OBJETIVO PRINCIPAL
+Comprender el funcionamiento del control de versiones mediante el uso de Git y GitHub para gestionar proyectos de desarrollo de software.
+                           OBJETIVOS ESPECÍFICOS
+1. Identificar los principales comandos de Git y sus funciones en la gestión de archivos y repositorios.
+2. Conocer cómo GitHub facilita el almacenamiento, seguimiento de cambios y trabajo colaborativo en proyectos de software.
