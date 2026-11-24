@@ -1,2 +1,3 @@
 # Control-de-versiones-
 El control de versiones permite organizar, registrar y gestionar los cambios de un proyecto, en este trabajo se explicara el funcionamiento de Git y GitHub, sus principales comandos y la manera en que estas herramientas ayudan a gestionar, almacenar y compartir proyectos de forma ordenada y eficiente con un equipo de trabajo.
+Trabajar con Git y GitHub en esta práctica me pareció muy útil para organizarnos en grupo. Me permitió ver cómo todos podemos editar el mismo archivo README.md sin desorden, guardando un historial de quién hizo cada cambio y sin el riesgo de borrar lo que ya avanzó otro compañero.
